@@ -165,11 +165,13 @@ width: 100%;
   text-transform: uppercase;
 }
 .hero-banner-image{
+  /* background-image:   {urlFor(heroBanner.image)}  */
+  
   position: absolute;
   top: 0%;
   right:20%;
-  width: 450px;
-  height: 450px;
+  width: 550px;
+  height: 450px; 
 }
 
 
